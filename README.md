@@ -36,7 +36,7 @@
 - 🤔 I’m looking for help with landing an internship position.
 - 💬 Ask me about centering divs.
 - 📫 How to reach me: deborahudoh02@gmail.com 
-- 👧🏽 Pronouns: She/Her
+- 👧🏽 Best qualities: Resiliency, eloquence, self-reliance & empathic listening.
 - 😻 Fun fact: Mothering 7 cats is the sole purpose of my existence.
 
 ---
