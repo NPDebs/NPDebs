@@ -2,13 +2,13 @@
   <img src="https://media.giphy.com/media/M4NykXxUE0HAcK7UJ6/giphy.gif" width="100"/>
   
   <div id="badges">
-    <a href="your-linkedin-URL">
+    <a href="https://www.linkedin.com/in/deborah-udoh-b0a720188">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href="your-youtube-URL">
+    <a href="https://instagram.com/deborahudoh02?igshid=YmMyMTA2M2Y=">
       <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Youtube Badge"/>
     </a>
-    <a href="your-twitter-URL">
+    <a href=https://twitter.com/DeborahUdoh3?t=5Jm2VvT2kfc1kdIU7Ksy-A&s=09">
       <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
     </a>
   </div>
@@ -29,15 +29,15 @@
 </div>
   
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
+---
+- 🔭 I’m working on refining my <a href="https://npdebs.github.io/Portfolio-Website" style="text-decoration: none;">portfolio.</a>
+- 🌱 I’m currently learning React.
+- 🤝🏻 I derive immense satisfaction collaborating on open-source projects.
+- 🤔 I’m looking for help with landing an internship position.
+- 💬 Ask me about centering divs.
+- 📫 How to reach me: deborahudoh02@gmail.com 
+- 👧🏽 Pronouns: She/Her
+- 😻 Fun fact: Mothering 7 cats is the sole purpose of my existence.
 
 ---
 ### :hammer_and_wrench: Languages and Tools:
@@ -54,6 +54,7 @@
 ---
 ### :fire: My Stats:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=NPDebs&theme=dark)](https://git.io/streak-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NPDebs)](https://github.com/npdebs/github-readme-stats)
 
 <!--
