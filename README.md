@@ -35,7 +35,7 @@
 - 🤝🏻 I derive immense satisfaction collaborating on open-source projects.
 - 🤔 I’m looking for help with landing an internship position.
 - 💬 Ask me about centering divs.
-- 📫 How to reach me: deborahudoh02@gmail.com 
+- 📫 How to reach me: deborahudoh02@gmail.com.
 - 👧🏽 Best qualities: Resiliency, eloquence, self-reliance & empathic listening.
 - 😻 Fun fact: Mothering 7 cats is the sole purpose of my existence.
 
@@ -64,10 +64,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NPDebs)](https://github.com/npdebs/github-readme-stats)
 
 <!--
-### Hi there 👋
-**NPDebs/NPDebs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
-
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
   <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
   https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg
