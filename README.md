@@ -33,7 +33,7 @@
 - 🔭 I’m working on refining my <a href="https://npdebs.github.io/Portfolio-Website" style="text-decoration: none;">portfolio.</a>
 - 🌱 I’m currently learning React.
 - 🤝🏻 I derive immense satisfaction collaborating on open-source projects.
-- 🤔 I’m looking for help with landing an internship position.
+- 🤔 I’m looking for help with peer review for my SIDS project.
 - 💬 Ask me about centering divs.
 - 📫 How to reach me: deborahudoh02@gmail.com.
 - 👧🏽 Best qualities: Resiliency, eloquence, self-reliance & empathic listening.
