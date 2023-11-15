@@ -35,7 +35,7 @@
 - 🤝🏻 I derive immense satisfaction collaborating on open-source projects.
 - 🤔 I’m looking for help with peer review for my SIDS project.
 - 💬 Ask me about centering divs.
-- 📫 How to reach me: deborahudoh02@gmail.com.
+- 📫 How to reach me: deborahudoh02@gmail.com or debs@we-are-ols.org.
 - 👧🏽 Best qualities: Resiliency, eloquence, self-reliance & empathic listening.
 - 😻 Fun fact: Mothering 7 cats is the sole purpose of my existence.
 
