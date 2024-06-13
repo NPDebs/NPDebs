@@ -58,12 +58,12 @@
 
 ---
 ### :fire: My Stats:
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=NPDebs&theme=dark)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NPDebs)](https://github.com/npdebs/github-readme-stats)
+<img width=400 src='https://github-readme-stats.vercel.app/api?username=NPDebs&theme=vue-dark&show_icons=true&hide_border=true&count_private=true' />
+<img width=400 src='https://github-readme-streak-stats.herokuapp.com/?user=NPDebs&theme=vue-dark&hide_border=true' />
+<img width=400 src='https://github-readme-stats.vercel.app/api/top-langs/?username=NPDebs&theme=vue-dark&show_icons=true&hide_border=true&layout=compact' />
 
 <!--
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=NPDebs&theme=dark)](https://git.io/streak-stats)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NPDebs)](https://github.com/npdebs/github-readme-stats)  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
   <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
   https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="git" width="40" height="40"/>&nbsp;
