@@ -30,7 +30,7 @@
   
 
 ---
-- 🔭 I’m working on refining my <a href="https://npdebs.github.io/Portfolio-Website" style="text-decoration: none;">portfolio.</a>
+- 🔭 I’m working on developing a <a href="https://npdebs.github.io/Pre-seeds-Program/" style="text-decoration: none;">Research 101 course.</a>
 - 🌱 I’m currently learning React.
 - 🤝🏻 I derive immense satisfaction collaborating on open-source projects.
 - 🤔 I’m looking for help with peer review for my [SIDS](https://github.com/NPDebs/Awareness-on-SIDS) project.
