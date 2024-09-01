@@ -38,6 +38,7 @@
 - 📫 How to reach me: deborahudoh02@gmail.com or debs@we-are-ols.org.
 - 👧🏽 Best qualities: Resiliency, eloquence, self-reliance & empathic listening.
 - 😻 Fun fact: Mothering 7 cats is the sole purpose of my existence.
+- 🔭 Find my [Emerging Voices](https://rsecon24.society-rse.org/programme/emerging-voice-plenary/) Plenary talk [slide deck here](https://www.canva.com/design/DAGJRBUKSfs/PZyHmopeA7bTXhbBAk0FCg/view?utm_content=DAGJRBUKSfs&utm_campaign=designshare&utm_medium=link&utm_source=editor).
 
 ---
 ### :hammer_and_wrench: Languages and Tools:
