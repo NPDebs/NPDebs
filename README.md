@@ -30,10 +30,10 @@
   
 
 ---
-- 🔭 I’m working on developing a <a href="https://npdebs.github.io/Pre-seeds-Program/" style="text-decoration: none;">Research 101 course.</a>
+- 🔭 I lead development of the <a href="https://npdebs.github.io/Pre-seeds-Program/" style="text-decoration: none;"> Preseeds: Research 101 course.</a>
 - 🌱 I’m currently learning React.
 - 🤝🏻 I derive immense satisfaction collaborating on open-source projects.
-- 🤔 I’m looking for help with peer review for my [SIDS](https://github.com/NPDebs/Awareness-on-SIDS) project.
+<!--- 🤔 I’m looking for help with peer review for my [SIDS](https://github.com/NPDebs/Awareness-on-SIDS) project.-->
 - 💬 Ask me about centering divs.
 - 📫 How to reach me: deborahudoh02@gmail.com or debs@we-are-ols.org.
 - 👧🏽 Best qualities: Resiliency, eloquence, self-reliance & empathic listening.
