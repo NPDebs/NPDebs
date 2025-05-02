@@ -30,15 +30,16 @@
   
 
 ---
-- 🔭 I lead development of the <a href="https://npdebs.github.io/Pre-seeds-Program/" style="text-decoration: none;"> Preseeds: Research 101 course.</a>
-- 🌱 I’m currently learning React.
 - 🤝🏻 I derive immense satisfaction collaborating on open-source projects.
-<!--- 🤔 I’m looking for help with peer review for my [SIDS](https://github.com/NPDebs/Awareness-on-SIDS) project.-->
+- 🔭 I lead the [Preseeds: Research 101](https://npdebs.github.io/Pre-seeds-Program/) development team.
+- 🤔 I’m looking for partners for the [Pre-seeds](https://npdebs.github.io/pre-seeds-research-101/ep-1.1-what-is-research.html) project.
+- 🌱 I’m on the lookout for Open Education / Open Source conferences.
 - 💬 Ask me about centering divs.
 - 📫 How to reach me: deborahudoh02@gmail.com or debs@we-are-ols.org.
 - 👧🏽 Best qualities: Resiliency, eloquence, self-reliance & empathic listening.
 - 😻 Fun fact: Mothering 7 cats is the sole purpose of my existence.
 - 🔭 Find my [Emerging Voices](https://rsecon24.society-rse.org/programme/emerging-voice-plenary/) Plenary talk [slide deck here](https://www.canva.com/design/DAGJRBUKSfs/PZyHmopeA7bTXhbBAk0FCg/view?utm_content=DAGJRBUKSfs&utm_campaign=designshare&utm_medium=link&utm_source=editor).
+- ✍🏽 I write colourfully about my journey and experiences as an early-career software developer on [my blog](https://medium.com/@deborahudoh02).
 
 ---
 ### :hammer_and_wrench: Languages and Tools:
